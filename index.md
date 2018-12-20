@@ -104,8 +104,5 @@ You can see the presentations of my team.
 
 
 
-### Image
-![Robot](https://blog.naver.com/godhanbin/220169370349)
-
 
 
