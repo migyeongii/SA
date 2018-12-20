@@ -105,7 +105,7 @@ You can see the presentations of my team.
 
 
 ### Image
-![Robot]("/Users/yangmigyeong/Desktop/KakaoTalk_Photo_2018-12-20-18-17-29.jpeg")
+![Robot]("https://blog.naver.com/godhanbin/220169370349")
 
 
 
