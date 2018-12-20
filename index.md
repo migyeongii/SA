@@ -1,8 +1,7 @@
 ## Welcome to SmartSensor&Actuator Pages
 
-You can use the [editor on GitHub](https://github.com/migyeongii/SA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can see all the things of the domino line tracing robot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Code
 
@@ -88,12 +87,25 @@ task main(){
 ```
 
 
-### Presentation video
+### Presentation Video
 
 You can see the presentations of my team. 
+
+
 1.[Interim presentation](https://www.youtube.com/watch?v=yLZLXtthy90)
+
 2.[Final presentation](https://www.youtube.com/watch?v=FZ8yHSsP4oI&t=9s)
 
 
+
 ### Domino Line Tracing Robot
-[Domino Line Tracing Robot](https://www.youtube.com/watch?v=bF25RHZb02I)
+[Domino Line Tracing Robot Video](https://www.youtube.com/watch?v=bF25RHZb02I)
+
+
+
+
+### Image
+![Robot](/Users/yangmigyeong/Desktop/KakaoTalk_Photo_2018-12-20-18-17-29.jpeg)
+
+
+
